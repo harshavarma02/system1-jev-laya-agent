@@ -16,17 +16,11 @@ Runs **100% locally** on your machine with **sub-350ms neural inference**, zero 
 ---
 
 <p align="center">
-  <a href="https://github.com/harshavarma02/system1-jev-laya-agent/blob/main/assets/demo.mp4">
-    <img src="assets/thumbnail.jpg" alt="System 1 Speedcuber Demo - Click to Play Video" width="100%" />
-  </a>
-  <br />
-  <a href="https://github.com/harshavarma02/system1-jev-laya-agent/blob/main/assets/demo.mp4">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Demo%20Video-Play%20in%20Browser-E50914?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" />
-  </a>
+  <video src="https://github.com/user-attachments/assets/09f7ce06-9bd1-418b-920d-da0150f3d844" controls="controls" width="100%" poster="assets/thumbnail.jpg"></video>
 </p>
 
 <p align="center">
-  <em>⚡ Click the banner or button above to play the full 1080p demonstration video.</em>
+   <em>⚡ Watch the Autonomous System 1 Agent observe the 3D cube matrix, evaluate algorithm probabilities with Laya 421M, and actuate moves in real time.</em>
 </p>
 
 ---
