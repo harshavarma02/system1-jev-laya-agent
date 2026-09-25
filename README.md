@@ -16,12 +16,12 @@ Runs **100% locally** on your machine with **sub-350ms neural inference**, zero 
 ---
 
 <p align="center">
-  <a href="https://github.com/harshavarma02/system1-jev-laya-agent/raw/main/assets/demo.mp4">
+  <a href="https://github.com/harshavarma02/system1-jev-laya-agent/blob/main/assets/demo.mp4">
     <img src="assets/thumbnail.jpg" alt="System 1 Speedcuber Demo - Click to Play Video" width="100%" />
   </a>
   <br />
-  <a href="https://github.com/harshavarma02/system1-jev-laya-agent/raw/main/assets/demo.mp4">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Demo%20Video-assets%2Fdemo.mp4-E50914?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" />
+  <a href="https://github.com/harshavarma02/system1-jev-laya-agent/blob/main/assets/demo.mp4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Demo%20Video-Play%20in%20Browser-E50914?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" />
   </a>
 </p>
 
