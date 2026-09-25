@@ -16,8 +16,8 @@ Runs **100% locally** on your machine with **sub-350ms neural inference**, zero 
 ---
 
 <p align="center">
-  <video src="assets/system1%20jev%20laya%20agent%20video.mp4" controls width="100%" poster="assets/thumbnail.jpg">
-    <a href="assets/system1%20jev%20laya%20agent%20video.mp4">
+  <video src="assets/demo.mp4" controls width="100%" poster="assets/thumbnail.jpg">
+    <a href="assets/demo.mp4">
       <img src="assets/thumbnail.jpg" alt="System 1 Speedcuber Demo Video" width="100%" />
     </a>
   </video>
