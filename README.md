@@ -1,6 +1,8 @@
-# Laya 421M: Autonomous System 1 Speedcuber Studio ⚡🎲
+# System 1 Speedcuber: Autonomous Cognitive Agent Studio ⚡🎲
+### Powered by Laya ModernBERT 421M + TypeSafe Jev
 
 [![Model](https://img.shields.io/badge/Model-Laya%20ModernBERT%20421M-blueviolet?style=for-the-badge&logo=huggingface)](https://huggingface.co/convaiinnovations/laya)
+[![TypeSafe](https://img.shields.io/badge/TypeSafe-Jev%201.13-purple?style=for-the-badge)](https://typesafe.ai)
 [![Type](https://img.shields.io/badge/Architecture-Non--Autoregressive%20System%201-blue?style=for-the-badge)](https://laya.studio)
 [![Tests](https://img.shields.io/badge/Tests-100%2F100%20Passing-brightgreen?style=for-the-badge&logo=vitest)](https://vitest.dev)
 [![TypeScript](https://img.shields.io/badge/Frontend-TypeScript%20%7C%20Three.js%20%7C%20Vite-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
@@ -10,6 +12,20 @@
 An open-source, real-time **System 1 Cognitive Agent Harness** for 3D Rubik's cube manipulation. Powered by local **ModernBERT-large (421M)** weights via [Convai Laya](https://huggingface.co/convaiinnovations/laya) and [TypeSafe Jev](https://typesafe.ai).
 
 Runs **100% locally** on your machine with **sub-350ms neural inference**, zero cloud API dependencies, and zero hallucinated tokens.
+
+---
+
+<p align="center">
+  <video src="assets/system1%20jev%20laya%20agent%20video.mp4" controls width="100%" poster="assets/thumbnail.jpg">
+    <a href="assets/system1%20jev%20laya%20agent%20video.mp4">
+      <img src="assets/thumbnail.jpg" alt="System 1 Speedcuber Demo Video" width="100%" />
+    </a>
+  </video>
+</p>
+
+<p align="center">
+  <em>⚡ Watch the Autonomous System 1 Agent observe the 3D cube matrix, evaluate algorithm probabilities with Laya 421M, and actuate moves in real time.</em>
+</p>
 
 ---
 
